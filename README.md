@@ -1,3 +1,15 @@
+/// <summary>
+/// Building with curiosity. Engineering with purpose.
+/// </summary>
+public class INFORMATION
+{
+    public string NOM          = "Vimaladhittan";
+    public string TITRE        = "Prompt Engineer | Software Engineer";
+    public string EMAIL        = "vimaltamizha@gmail.com";
+    public string TÉLÉPHONE    = "+91 9488117774";
+    public int    ÂGE          = 21;
+}
+
 public enum PLATEFORMES()
 {
     Windows,
